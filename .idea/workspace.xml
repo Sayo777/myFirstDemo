@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8498c6e-a0e3-4c19-9333-ed21e38274f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/newTestNG/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/newTestNG/MyAnnotationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/newTestNG/TestMyAnnotationListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/newTestNG/TestNG.java" beforeDir="false" />
+    <list default="true" id="c8498c6e-a0e3-4c19-9333-ed21e38274f0" name="Changes" comment="first file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/asyashao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/asyashao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +13,25 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zVG5nDXp3oXXzdZTpDYiOoZI6r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,7 +56,37 @@
       <option name="presentableId" value="Default" />
       <updated>1634225661502</updated>
       <workItem from="1634225665484" duration="1224000" />
+      <workItem from="1634702321677" duration="5256000" />
     </task>
+    <task id="LOCAL-00001" summary="first file">
+      <created>1634702402305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634702402305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first file">
+      <created>1634702435488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634702435488</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first file">
+      <created>1634702445581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634702445581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first file">
+      <created>1634702477723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634702477723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +102,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first file" />
+    <option name="LAST_COMMIT_MESSAGE" value="first file" />
   </component>
 </project>
